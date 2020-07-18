@@ -2,7 +2,11 @@
 using namespace std;
 int main(int argv, char **args)
 {
-    cout << "CSA" << endl;
+    for (int i = 0; i < 10; i++)
+    {
+        cout << "CSA" << endl;
+    }
+
     //git
     return 1;
 }
